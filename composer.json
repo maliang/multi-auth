@@ -1,0 +1,25 @@
+{
+    "name": "maliang/multi-auth",
+    "description": "Laravel5多用户登录方案",
+    "keywords": [
+        "laravel",
+        "multi",
+        "auth"
+    ],
+    "license": "MIT",
+    "require": {
+        "php":">=5.3",
+        "illuminate/auth": "5.*",
+    },
+    "authors": [
+        {
+            "name": "maliang",
+            "email": "maliang@foxmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Maliang\\Multi-auth\\": "src/"
+        }
+    }
+}
