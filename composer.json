@@ -9,7 +9,7 @@
     "license": "MIT",
     "require": {
         "php":">=5.3",
-        "illuminate/auth": "5.*",
+        "illuminate/auth": "5.*"
     },
     "authors": [
         {
